@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
     // Definindo uma estrutura para representar uma carta de cidade
     struct CartaCidade {
         char estado[50]; //Nome do estado (uma letra entre A e H)
